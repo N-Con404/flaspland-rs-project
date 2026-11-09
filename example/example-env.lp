@@ -4,8 +4,8 @@
 global(37).
 
 train(0). speed(0,1).
-start(0,(13,10),0,e). 
-end(0,(7,23),33). 
+start(0,(13,10),1,e). 
+end(0,(7,23),34). 
 
 train(1). speed(1,1).
 start(1,(6,23),1,w). 
